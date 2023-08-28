@@ -4,8 +4,6 @@ from pathlib import Path
 
 from setuptools import setup
 
-ROOT_DIR = Path(__file__).parent.resolve()
-
 
 def _get_requirements():
     """Install `requirements.txt`."""
