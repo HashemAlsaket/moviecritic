@@ -1,0 +1,4 @@
+colorama
+langchain
+openai
+neo4j
