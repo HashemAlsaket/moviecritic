@@ -20,7 +20,7 @@ RED = "\x1b[1;31;40m"
 
 def main():
     """
-    Main funciton to setup Neo4j connection, projections,
+    Setup Neo4j connection, projections,
     similarites, and interact with user.
     """
     langchain.llm_cache = InMemoryCache()
